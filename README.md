@@ -6,7 +6,7 @@
     <h1 align="center">UNANR Signal fitering</h1>
 </p>
 
-# About!
+### About!
 To help my friends in biomedical engineering research on the "Filtering electrocardiographic signals using an unbiased and normalized adaptive noise reduction system" article I extracted data for noise filtering By using the proposed UNANI system in ECG signals can be more effective than LMS filtering as you can see in page 3, with less noise remaining on signal and even can be said that the noise has been removed from UNANR filtering algorithm.
 #algorithms #ECG #UNANI #matlab #appdesigner
 
